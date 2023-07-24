@@ -1,0 +1,10 @@
+
+.r_search_input:focus + .r_search{
+    display: block;
+}
+.r_search{
+    display: none;
+}
+
+
+    
